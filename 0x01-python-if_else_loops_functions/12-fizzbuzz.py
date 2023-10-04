@@ -17,4 +17,3 @@ this is For multiples of three and five, print FizzBuzz instead of the number.
             print("Buzz ", end="")
         else:
             print("{} ".format(number), end="")
-
